@@ -15,6 +15,14 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+gem "nokogiri", ">= 1.8.5"
+gem "activejob", ">= 4.2.11"
+gem "rack", ">= 1.6.11"
+gem "rails-html-sanitizer", ">= 1.0.4"
+gem "loofah", ">= 2.2.3"
+
+
+
 
 
 gem 'will_paginate', '3.0.7'
